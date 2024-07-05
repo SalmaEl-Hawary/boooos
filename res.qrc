@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>bg.jpg</file>
+        <file>enemy.png</file>
+        <file>beautiful-shining-stars-night-sky.jpg</file>
+        <file>bullet.png</file>
+        <file>spaceship.png</file>
+        <file>Militarychicken.png</file>
+    </qresource>
+</RCC>

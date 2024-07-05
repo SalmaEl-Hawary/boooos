@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Gunshot Sound Effect.mp3</file>
+        <file>CHICKEN SCREAMING SOUND EFFECT.mp3</file>
+    </qresource>
+</RCC>
